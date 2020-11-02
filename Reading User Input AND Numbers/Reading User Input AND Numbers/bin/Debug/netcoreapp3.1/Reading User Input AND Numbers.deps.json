@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reading User Input AND Numbers/1.0.0": {
+        "runtime": {
+          "Reading User Input AND Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reading User Input AND Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
